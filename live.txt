@@ -1,17 +1,4 @@
 央视,#genre#
-CCTV1,mitv://generationnexxxt.com:19806/4d1986f4c31a431cb977822f62390a6f
-CCTV2,mitv://generationnexxxt.com:19806/4f6345e5f86944b5b495fc33310a43f3
-CCTV3,mitv://generationnexxxt.com:19806/8b3d1eb8e6634a0c94859770bbed7f87
-CCTV4,mitv://generationnexxxt.com:19806/f03b593ecd9444dda44e80828616f852
-CCTV5,mitv://generationnexxxt.com:19806/4e93defd7f3e4fcaab7924b2ed646a4c
-CCTV5 ,mitv://generationnexxxt.com:19806/6532937d0004e05baf655f8f71295620
-CCTV6,mitv://generationnexxxt.com:19806/417e410840104cf8bd50480fcf2d7bf7
-CCTV7,mitv://generationnexxxt.com:19806/4d2b6da8adb1448baf405e8002bc5fbb
-CCTV8,mitv://generationnexxxt.com:19806/b462f54f65b9485a80b2d03759211c8c
-CCTV9,mitv://generationnexxxt.com:19806/ea289ce8dd7d4d608ffda9135971529b
-CCTV10,mitv://generationnexxxt.com:19806/d225d362316242c8955ad396e0693994
-CCTV11,mitv://generationnexxxt.com:19806/5560c2f5c1ba4285985de4905d2cde05
-CCTV12,mitv://generationnexxxt.com:19806/f8295a65174844ccba5c6b31a0f3498b
-CCTV13,mitv://generationnexxxt.com:19806/2e920dbf411243fbaf15ddcf1a276da2
-CCTV14,mitv://generationnexxxt.com:19806/51fd7b2c60ad4724b38677d452c3b3ca
-CCTV15,mitv://generationnexxxt.com:19806/25ddb0d118b44da8b3fb0138cbbced93
+CCTV1,http://stream10.fjtv.net/cctv1/playlist.m3u8?_upt=b41da3d01700734119
+CCTV2,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+CCTV3,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
